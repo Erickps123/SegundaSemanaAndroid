@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="caption_Nombre">Nombre Completo </string>
+    <string name="caption_FechadeNacimiento">Fecha de Nacimiento </string>
+    <string name="caption_telefono">Telefono </string>
+    <string name="caption_correo">Correo </string>
+    <string name="caption_Direccion">Descripcion </string>
+    <string name="caption_ButtonSig">Siguiente</string>
+
+    <string name="caption_ButtonEdit">Editar Datos</string>
+
+    <string name="labelConfirmar">Confirmar Datos</string>
+
+    <string name="paramNombre">Erick</string>
+    <string name="paramFecha">14/08/2000</string>
+    <string name="paramTelefono">849-406-8604</string>
+    <string name="paramCorreo">er@gmail.com</string>
+    <string name="paramDireccion">estrelletaa</string>
+    <string name="caption_DireccionConfirm"></string>
+
+    <string name="text_label">Nombre y Telefono son campos obligatorios</string>
+
+</resources>
